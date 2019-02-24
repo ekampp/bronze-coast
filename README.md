@@ -1,2 +1,3 @@
-# bronze-coast
-A roleplaying background world project
+# The Bronze Coast
+
+This is an open source roleplaying background project. 
